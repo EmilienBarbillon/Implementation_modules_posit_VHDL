@@ -49,8 +49,11 @@ Below you'll find algorithms used to implement modules.
 
 #### 2.1. Posit extraction 
 
-![](src/algo_extraction.PNG)
+![](src/algo_extraction.PNG)*
 
+In our extraction module we added tow more output to check if the posit is __Zero__ ou __± infinity__.
+Zero : "000...000"   
+± infinity : "100...000"
 #### 2.2. Multiplier  
 
 #### 2.3. Pack Posit
