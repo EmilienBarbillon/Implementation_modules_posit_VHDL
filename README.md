@@ -29,8 +29,7 @@ A new data type called a posit is designed as a direct drop-in replacement for I
       				e  : value of exponent 
 	    
     -   _**Fraction bits**_ :  
-      				fract  : _fract_ / 2^(i)
-				
+      				fract  : _fract_ / 2^(i)x
 				          _i : size of fraction_
 				
 
