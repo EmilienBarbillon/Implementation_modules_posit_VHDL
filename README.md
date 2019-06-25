@@ -7,4 +7,11 @@ A new data type called a posit is designed as a direct drop-in replacement for I
 
 #### 1. Posit design 
 
-![](src/design_posit.png)
+
+* 2 Parameters : 
+      - n : size of posit 
+      - es : size of exponent
+
+
+![](src/Design_posit.PNG)
+
