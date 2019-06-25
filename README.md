@@ -6,7 +6,7 @@ A new data type called a posit is designed as a direct drop-in replacement for I
 
 
 1. Posit design
-_
+__
 
 * 2 Parameters :    
   -   _**n**_ : size of posit    
