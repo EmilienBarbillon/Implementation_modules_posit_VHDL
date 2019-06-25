@@ -35,6 +35,23 @@ A new data type called a posit is designed as a direct drop-in replacement for I
 
 ![](src/compute_posit_value.PNG)
 
+### 2. Implementation of VHDL modules  #
+
+The modules VHDL are based on algotrithms presented in : 
+
+_**"Deep Positron: A Deep Neural Network Using the Posit Number System"**_
+_Zachariah Carmichael, Hamed F. Langroudi, Char Khazanov, Jeffrey Lillie,
+John L. Gustafson, Dhireesha Kudithipudi
+Neuromorphic AI Lab, Rochester Institute of Technology, NY, USA
+National University of Singapore, Singapore_
+
+#### 2.1. Posit extraction 
+
+#### 2.2. Multiplier  
+
+#### 2.3. Pack Posit
+
+
 
 				
 
