@@ -54,12 +54,7 @@ Below you'll find algorithms used to implement modules.
 In our extraction module, we added tow more output to check if the posit is __Zero__ ("000...000") ou __Not a Real__ ("100...000").
 Names of those output are _zero_ of __Zero__ and _Nar_ for __Not a Real__.
 
-We have created a module CLZ (_LZD - line 7_ in the algortihm above) which allows to count a sequence of '0' until the first one. This module can count until 32 zeros. And to make the shifting left shift(__) we have used modules implemented by Alberto A. Del Barrio (https://github.com/albertodbg/vhdl-arithmetic).
-
-<!---#### 2.2. Multiplier--->  
-
-<!---#### 2.3. Pack Posit --->
-
+We have created a module CLZ (_LZD - line 7_ in the algortihm above) which allows to count a sequence of '0' until the first one. This module can count until 32 zeros. And to make the shifting left shift(_line 8_ in the algorithm) we have used modules implemented by Alberto A. Del Barrio (https://github.com/albertodbg/vhdl-arithmetic).
 
 
 				
