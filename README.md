@@ -9,8 +9,8 @@ A new data type called a posit is designed as a direct drop-in replacement for I
 
 * 2 Parameters :
     
-    -   n : size of posit    
-    -   es : size of exponent
+    -   _**n**_ : size of posit    
+    -   _**es**_ : size of exponent
 
 
 ![](src/Design_posit.PNG)
