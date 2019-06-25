@@ -19,7 +19,7 @@ A new data type called a posit is designed as a direct drop-in replacement for I
     
     -   _**Sign bit**_ :  
       -  if '0' ==> Positive number
-			- if '1' ==> Negative number
+      -  if '1' ==> Negative number
 	    
     -   _**Regime bits**_ :  
       -  /r : '1'   -->       k = -m      m : nb of '0'   
