@@ -25,9 +25,12 @@ A new data type called a posit is designed as a direct drop-in replacement for I
       -  /r : '1'   -->       k = -m      m : nb of '0'   
       -  /r : '0'   -->   k= m-1      m: nb of '1'
 	   
-    -   _**Exponent bits**_ : e  : value of exponent 
+    -   _**Exponent bits**_ :  
+      				e  : value of exponent 
 	    
-    -   _**Fraction bits**_ : fract  : _fract_ / 2^(i)     **|**     _i : size of fraction_
+    -   _**Fraction bits**_ :  
+      				fract  : _fract_ / 2^(i)
+					_i : size of fraction_
 
 
   
