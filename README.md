@@ -54,7 +54,7 @@ Below you'll find algorithms used to implement modules.
 In our extraction module, we added tow more output to check if the posit is __Zero__ ("000...000") ou __Not a Real__ ("100...000").
 Names of those output are _zero_ of __Zero__ and _Nar_ for __Not a Real__.
 
-We create a module CLZ which allows to count a sequence of '0' until the first one. This module can count until 32 zeros. 
+We have created a module CLZ (_LZD - line 7_ in the algortihm above) which allows to count a sequence of '0' until the first one. This module can count until 32 zeros. And to make the shifting  
 
 <!---#### 2.2. Multiplier--->  
 
