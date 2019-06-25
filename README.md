@@ -37,7 +37,7 @@ A new data type called a posit is designed as a direct drop-in replacement for I
 
 ### 2. Implementation of VHDL modules  #
 
-The modules VHDL "Posit extion" & "Multiplier" are based on algotrithms presented in : 
+The modules VHDL "Posit extraction" & "Multiplier" are based on algotrithms presented in : 
 
 _**"Deep Positron: A Deep Neural Network Using the Posit Number System"**_
 _Zachariah Carmichael, Hamed F. Langroudi, Char Khazanov, Jeffrey Lillie,
