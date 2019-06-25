@@ -33,6 +33,7 @@ A new data type called a posit is designed as a direct drop-in replacement for I
       
 ### 2. Value of Posit #
 
+![](src/compute_posit_value.PNG)
 
 
 				
