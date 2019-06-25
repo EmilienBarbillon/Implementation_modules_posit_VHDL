@@ -7,8 +7,7 @@ A new data type called a posit is designed as a direct drop-in replacement for I
 
 #### 1. Posit design 
 
-* 2 Parameters :
-    
+* 2 Parameters :    
     -   _**n**_ : size of posit    
     -   _**es**_ : size of exponent
 
@@ -17,20 +16,20 @@ A new data type called a posit is designed as a direct drop-in replacement for I
 
 * Bit fields :
     
-    -   _**sign bit**_ : 
-	    * if '0' ==> Positive number 
+    -   _**sign bit**_ :    
+    * if '0' ==> Positive number 
 	    * if '1' ==> Negative number
 	    
-    -   _**Regime bits**_ : 
-	    * /r : '1'   -->       k = -m                         m : nb of '0'
+    -   _**Regime bits**_ :    
+    * /r : '1'   -->       k = -m                         m : nb of '0'
 	    * /r : '0'   -->       k= m-1                         m: nb of '1'
 	   
 
-    -   _**exponent bits **_ : 
-	    * e  : value of exponent 
+    -   _**exponent bits **_ :    
+    * e  : value of exponent 
 	    
-    -   _**fraction bits **_ : 
-	    * e  : value of exponent
+    -   _**fraction bits **_ :    
+    * e  : value of exponent
 
 
   
