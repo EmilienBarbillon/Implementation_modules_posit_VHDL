@@ -25,7 +25,7 @@ A new data type called a posit is designed as a direct drop-in replacement for I
     -   _**Regime bit**_ : 
     
 	    * /r : '1'   -->       k = -m                         m : nb of '0'
-            * /r : '0'   -->       k= m-1                         m: nb of '1'
+	    * /r : '0'   -->       k= m-1                         m: nb of '1'
 
 
   
