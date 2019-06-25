@@ -51,7 +51,7 @@ Below you'll find algorithms used to implement modules.
 
 ![](src/algo_extraction.PNG)*
 
-In our extraction module, we added tow more output to check if the posit is __Zero__("000...000") ou __Not a Real__("100...000").
+In our extraction module, we added tow more output to check if the posit is __Zero__ ("000...000") ou __Not a Real__ ("100...000").
 Names of those output are _zero_ of __Zero__ and _Nar_ for __Not a Real__.
 
 <!---#### 2.2. Multiplier--->  
